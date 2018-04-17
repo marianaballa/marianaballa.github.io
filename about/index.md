@@ -1,37 +1,17 @@
 ---
 layout: page
-title: About the Theme
+title: About me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+Hey there! 👋
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+This is Mariana Balla, but I guess you already know that since you are here…
 
-## Preview
+I study Information and Communication Technology at the Faculty of Natural Sciences, University of Tirana. Currently I’m based in Tirana, Albania.
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+I’m passionate about free and open source technologies. For the past two years I’ve been a member of Open Labs Hackerspace.
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+I’ve contributed to several FLOSS projects, such The Fedora Project, OpenStreetMap and Wikimedia. Since August of 2017, I am Fedora Ambassador. Aside to the Fedora Project, I’ve been also contributing to Wikimedia’s subprojects.
