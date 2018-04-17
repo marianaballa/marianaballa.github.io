@@ -3,7 +3,10 @@ layout: post
 title: This is a Lorem Ipsum text
 author: Mariana Balla
 date: 2018-04-11 12:00:00 +0200
-- images: img/ragnar-vorel-351414-unsplash.jpg
+
+- images: assets/img/ragnar-vorel-351414-unsplash.jpg
+
+excerpt: Excerpt sample
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ornare lorem dolor, ac pretium leo venenatis vel. Quisque a porta diam. Sed aliquam pellentesque gravida. Vestibulum scelerisque at nibh nec ullamcorper. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Fusce tempor justo risus, quis facilisis lorem vulputate id. Sed at efficitur leo. Nulla facilisi. Morbi rutrum felis vel blandit sagittis. Integer non consequat orci. Aenean elit turpis, tempus in consequat vel, lacinia quis eros. Etiam porttitor urna nunc, quis posuere libero gravida hendrerit. Aliquam nulla nisi, varius sed purus eget, dictum ultrices est.
