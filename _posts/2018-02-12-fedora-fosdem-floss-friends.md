@@ -13,7 +13,7 @@ excerpt: "Inspired by the Fedora 4 foundations, these four words describe pretty
 
 Inspired by the Fedora 4 foundations, these four words describe pretty much my FOSDEM experience. As this was the very first time for me to attend the conference I was looking forward to travel to Brussels the weekend that passed by. FOSDEM is (probably) the largest conference in Europe that promotes the wide use of open source technologies. Both software and hardware. This event attracts thousands of participants every year. And last week I got to understand why!
 
-![Fedora group photo](/assets/img/![FOSDEM candy](/assets/img/fosdem-candy-1024x576.png)
+![Fedora group photo](/assets/img/![FOSDEM candy](/assets/img/fosdem_Group_photo-1024x768.jpg)
 
 
 I arrived in Brussels late in the evening on Friday and I couldn't wait to meet my fellow Fedorians despite the fact that I was tired. It turned out that myself was the last person to arrive in Brussels, as most of them had arrived early in the morning or on Thursday. The last time we met was in Cape Cod for Flock, 6 months ago! Still though everyone was pretty enthusiastic for the next days.
