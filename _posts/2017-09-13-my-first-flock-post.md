@@ -10,7 +10,7 @@ As one of the newest members of the Fedora Community, Flock to Fedora 2017 was a
 
 
 Diversity session
-![The Diversity team](/assets/img/Diversity1.jpg)<br>
+![The Diversity team](/assets/img/Diversity2.jpg)<br>
 <i>The Diversity team (Creative Commons – Attribution-ShareAlike 4.0 International)</i>
 
 Initially, I got involved at the project at the Diversity Team. I could not miss the workshop held by Justin Flory, Amita Sharma and Jona Azizaj. This session was really clear for all these people who would like to help underrepresented groups get involved in a tech community, such as the Fedora Project. Also, we had the chance to build a 6 months strategy for the events that the Diversity Team is planing to organize. 
@@ -35,10 +35,8 @@ At the end of the session, Marina Zhurakhinskaya, one of the co-organizers of Ou
 
 
 
-Fedora Ambassadors: The future
-
-
-
+### Fedora Ambassadors: The future
+![The Diversity team](/assets/img/Diversity1.jpg)<br>
 
 As I mentioned in the begging, I attended Flock this year as a freshman ambassador. One of the sessions that I didn't want to miss was the workshop by Nick Debout and Jona Azizaj about the future of the Fedora Ambassadors. I really wanted to understand better how the process works in order to organize events more effectively in the future. I have to admit that both Nick and Jona gave a great talk, describing step by step everything an ambassador should do. 
 
