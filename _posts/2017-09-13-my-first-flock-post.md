@@ -5,14 +5,14 @@ author: Mariana Balla
 date: 2017-09-13 12:00:00 +0200
 excerpt: "As one of the newest members of the Fedora Community, Flock to Fedora 2017 was a great opportunity for me to get to know better with the Project and other community members from different regions. This year Flock was held in Cape Cod in Massachusetts,USA. "
 --- 
-![The Diversity team](/assets/img/Flock.jpg)<br>
+![The Diversity team](/assets/img/Flock.jpg)
 <i>Opening speach during the first day (Creative Commons – Attribution-ShareAlike 4.0 International)</i>
 
 As one of the newest members of the Fedora Community, Flock to Fedora 2017 was a great opportunity for me to get to know better with the Project and other community members from different regions. This year Flock was held in Cape Cod in Massachusetts,USA.  I had the chance to attend the conference as an Ambassador, since I got accepted only one week before the event. To me those four days were a great chance to hang with fellow attendees  with diverse backgrounds, who share the same passion on the Fedora Project and exchange with them ideas on how to work and collaborate with each other. The entire community gave me a warm welcome!
 
 
 ### Diversity session
-![The Diversity team](/assets/img/Diversity2.jpg)<br>
+![The Diversity team](/assets/img/Diversity2.jpg)
 <i>The Diversity team (Creative Commons – Attribution-ShareAlike 4.0 International)</i>
 
 Initially, I got involved at the project at the Diversity Team. I could not miss the workshop held by Justin Flory, Amita Sharma and Jona Azizaj. This session was really clear for all these people who would like to help underrepresented groups get involved in a tech community, such as the Fedora Project. Also, we had the chance to build a 6 months strategy for the events that the Diversity Team is planing to organize. 
@@ -38,7 +38,9 @@ At the end of the session, Marina Zhurakhinskaya, one of the co-organizers of Ou
 
 
 ### Fedora Ambassadors: The future
-![The Diversity team](/assets/img/Diversity1.jpg)<br>
+![The Diversity team](/assets/img/Diversity1.jpg)
+<i>Jona & Nick (Creative Commons – Attribution-ShareAlike 4.0 International)</i>
+
 
 As I mentioned in the begging, I attended Flock this year as a freshman ambassador. One of the sessions that I didn't want to miss was the workshop by Nick Debout and Jona Azizaj about the future of the Fedora Ambassadors. I really wanted to understand better how the process works in order to organize events more effectively in the future. I have to admit that both Nick and Jona gave a great talk, describing step by step everything an ambassador should do. 
 
