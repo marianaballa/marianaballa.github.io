@@ -9,7 +9,7 @@ excerpt: "As one of the newest members of the Fedora Community, Flock to Fedora 
 As one of the newest members of the Fedora Community, Flock to Fedora 2017 was a great opportunity for me to get to know better with the Project and other community members from different regions. This year Flock was held in Cape Cod in Massachusetts,USA.  I had the chance to attend the conference as an Ambassador, since I got accepted only one week before the event. To me those four days were a great chance to hang with fellow attendees  with diverse backgrounds, who share the same passion on the Fedora Project and exchange with them ideas on how to work and collaborate with each other. The entire community gave me a warm welcome!
 
 
-Diversity session
+### Diversity session
 ![The Diversity team](/assets/img/Diversity2.jpg)<br>
 <i>The Diversity team (Creative Commons – Attribution-ShareAlike 4.0 International)</i>
 
