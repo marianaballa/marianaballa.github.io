@@ -3,6 +3,10 @@ layout: post
 title: My first Flock post
 author: Mariana Balla
 date: 2017-09-13 12:00:00 +0200
+tags:
+- Fedora
+- Flock to Fedora
+- Ambassador
 excerpt: "As one of the newest members of the Fedora Community, Flock to Fedora 2017 was a great opportunity for me to get to know better with the Project and other community members from different regions. This year Flock was held in Cape Cod in Massachusetts,USA. "
 --- 
 ![The Diversity team](/assets/img/Flock.jpg)
