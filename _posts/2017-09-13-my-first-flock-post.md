@@ -8,10 +8,10 @@ excerpt: "As one of the newest members of the Fedora Community, Flock to Fedora 
 ![The Diversity team](/assets/img/Flock.jpg)
 <i>Opening speach during the first day (Creative Commons – Attribution-ShareAlike 4.0 International)</i>
 
-As one of the newest members of the Fedora Community, Flock to Fedora 2017 was a great opportunity for me to get to know better with the Project and other community members from different regions. This year Flock was held in Cape Cod in Massachusetts,USA.  I had the chance to attend the conference as an Ambassador, since I got accepted only one week before the event. To me those four days were a great chance to hang with fellow attendees  with diverse backgrounds, who share the same passion on the Fedora Project and exchange with them ideas on how to work and collaborate with each other. The entire community gave me a warm welcome!
+As one of the newest members of the Fedora Community, [Flock to Fedora 2017](https://flocktofedora.org/) was a great opportunity for me to get to know better with the Project and other community members from different regions. This year Flock was held in Cape Cod in Massachusetts,USA.  I had the chance to attend the conference as an Ambassador, since I got accepted only one week before the event. To me those four days were a great chance to hang with fellow attendees  with diverse backgrounds, who share the same passion on the Fedora Project and exchange with them ideas on how to work and collaborate with each other. The entire community gave me a warm welcome!
 
 
-### Diversity session
+### The Diversity session
 ![The Diversity team](/assets/img/Diversity2.jpg)
 <i>The Diversity team (Creative Commons – Attribution-ShareAlike 4.0 International)</i>
 
@@ -23,7 +23,7 @@ At first, the session owners presented a few events that were organized and/or a
 
 
 
-The speakers announced to their audience how to be part of the Fedora Diversity Team. First of all,they suggested to all those people who would like to be part of the Team to introduce themselves on the mailing list. Joining the meetings on IRC and Telegram is the next step. All the  decisions that have to do with events and budget issues are made on these meetings. Along with the respective tickets on Pagure. 
+The speakers announced to their audience how to be part of the Fedora Diversity Team. First of all,they suggested to all those people who would like to be part of the Team to introduce themselves on the mailing list. Joining the meetings on IRC and Telegram is the next step. All the  decisions that have to do with events and budget issues are made on these meetings. Along with the respective tickets on [Pagure](https://pagure.io/). 
 
 
 
@@ -33,7 +33,7 @@ All agreed that having guidelines is a mile stone, but being flexible on the oth
 During the session, we set some goals for the future. One of them was having a Code of Conduct that will help deal with inappropriate/bad behaviors. Geographic diversity aspects was an other issue we need to deal with  in the near future. We need to have the ambassadors as connecting points, since the different levels of speaking english, for example, makes it difficult to follow up global events. Also, we need to extend users' diversity, not only contributors'. The Contributors' Survey was something discussed. We agreed that we have to identify the purpose of it and come up with an analysis plan. We need to understand better how are we going to work with the data that we'll collect and how to make that publicly accessible.
 
 
-At the end of the session, Marina Zhurakhinskaya, one of the co-organizers of Outreachy introduced this internship to the audience. One more time, Fedora is part of Outreachy.  Earlier this week a blogpost was published on this at the Community Blog. To me Outreachy, is a great opportunity for everyone who comes from a underrepresented social group to be part of this scholarship and work or mentor someone else who needs their help.
+At the end of the session, Marina Zhurakhinskaya, one of the co-organizers of Outreachy introduced this internship to the audience. One more time, Fedora is part of [Outreachy](https://communityblog.fedoraproject.org/).  Earlier this week a blogpost was published on this at the Community Blog. To me Outreachy, is a great opportunity for everyone who comes from a underrepresented social group to be part of this scholarship and work or mentor someone else who needs their help.
 
 
 
@@ -55,7 +55,7 @@ Another topic that was discussed among the session owners and the audience was t
 
 
 
-Matthew Miller's blogpost, that was published at the community blog, was another issue that triggered the interest of people that were present in that room. The blogpost was about the new Objectives the Council is proposing for the entire project in a time-frame of 12 to 18 months. It's not a secret that the Fedora Ambassadors across regions have diverse backgrounds. The need of identifying the proper places to present Fedora by the ambassadors brought up the idea of "dividing" into groups in order to send the proper person to the proper event/conference. That would make it more effective to present the Fedora OS and the Fedora Community to various audiences. Thus, that was just an idea since it is really difficult to divide and evaluate people by their skills and experience.
+[Matthew Miller's blogpost](https://communityblog.fedoraproject.org/ambassadors-fedora-strategy/), that was published at the community blog, was another issue that triggered the interest of people that were present in that room. The blogpost was about the new Objectives the Council is proposing for the entire project in a time-frame of 12 to 18 months. It's not a secret that the Fedora Ambassadors across regions have diverse backgrounds. The need of identifying the proper places to present Fedora by the ambassadors brought up the idea of "dividing" into groups in order to send the proper person to the proper event/conference. That would make it more effective to present the Fedora OS and the Fedora Community to various audiences. Thus, that was just an idea since it is really difficult to divide and evaluate people by their skills and experience.
 
 
 As a conclusion I have to say that this Flock, my very first Flock, was a great experience for me. I am happy that I met contributors from different parts of the Project and discussed about our views on the Fedora Project. Coming back home now, I feel more motivated from the stories I heard and the talks and workshops I was able to attend.  Looking forward to many more Flocks!  
