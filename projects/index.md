@@ -1,14 +1,15 @@
 ---
-layout: contact me
+layout: projects
 title: Contact Me
 excerpt: "Say hello"
 comments: false
 ---
-You can reach me via e-mail at:
+Say hello via e-mail at:
 
-contact@marianaballa.com
-mariana@ura.design
-marianab@fedoraproject.com
+*contact@marianaballa.com
+*mariana@ura.design
+*marianab@fedoraproject.com
+
 On Twitter:  @marianaballa1
 
 On GitHub:  @marianaballa
