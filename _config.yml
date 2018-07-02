@@ -4,7 +4,7 @@ title:              Mariana Balla
 description:        "Mariana's blog"
 reading_time:       false
 words_per_minute:   200
-logo:               'assets/img/laptop-usplash.jpg'
+#logo:               'assets/img/laptop-usplash.jpg'
 #background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
