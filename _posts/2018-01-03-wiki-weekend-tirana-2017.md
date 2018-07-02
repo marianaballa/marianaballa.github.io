@@ -8,11 +8,11 @@ tags:
 - Wikimedia
 - Wikimedia User Group Albania
 - Open Labs Hackerspace
-excerpt: "During the second weekend of December I had the chance to be part of [Wiki Weekend Tirana 2017](https://sq.wikipedia.org/wiki/Wikipedia:Wiki_Weekend_Tirana_2017). It was the second time I was able to join the event. Last year I was just an attendee, while this year I had a talk about all the Wikimedia projects."
+excerpt: "During the second weekend of December I had the chance to be part of Wiki Weekend Tirana 2017. It was the second time I was able to join the event. Last year I was just an attendee, while this year I had a talk about all the Wikimedia projects."
 ---
 ![Group photo](/assets/img/Wiki_Weekend_Tirana_2017_-_first_day_33-1024x510.jpg)
 
-During the second weekend of December I had the chance to be part of Wiki Weekend Tirana 2017. It was the second time I was able to join the event. Last year I was just an attendee, while this year I had a talk about all the Wikimedia projects.
+During the second weekend of December I had the chance to be part of [Wiki Weekend Tirana 2017](https://sq.wikipedia.org/wiki/Wikipedia:Wiki_Weekend_Tirana_2017). It was the second time I was able to join the event. Last year I was just an attendee, while this year I had a talk about all the Wikimedia projects.
 
 ![Mariana](/assets/img/Wiki_Weekend_Tirana_2017_1.jpg)
 
