@@ -9,7 +9,7 @@ Hey there! 👋
 
 This is Mariana Balla, but I guess you already know that since you are here...
 
-I study Information and Communication Technology at the [Faculty of Natural Sciences](http://www.fshn.edu.al/), University of Tirana and work for [Ura](https://ura.design/) as a communications' manager. Ura is a design agency which provides its services for "open source" and "internet freedom" projects. Currently I'm based in Tirana, Albania.
+I study Information and Communication Technology at the [Faculty of Natural Sciences](http://www.fshn.edu.al/), University of Tirana. Currently I'm based in Tirana, Albania.
 
 I'm passionate about free and open source technologies. For the past two years I've been a member of [Open Labs Hackerspace](https://openlabs.cc/en/) and since last November I am a board member. All board members are girls! 
 
