@@ -5,8 +5,8 @@ date: 2018-07-01
 comments: false
 ---
 
-<img src="assets/img/ddd.png" alt="Mariana" class="center">
-    
+![Mariana]("https://github.com/marianaballa/marianaballa.github.io/blob/master/assets/img/ddd.png")
+
 Hey there! 👋
 
 This is Mariana Balla, but I guess you already know that since you are here...
