@@ -4,6 +4,8 @@ title: About me
 date: 2018-07-01
 comments: false
 ---
+
+<img src="assets/img/ddd.png" alt="Mariana" class="center">
     
 Hey there! 👋
 
