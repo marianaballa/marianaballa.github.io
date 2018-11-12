@@ -16,6 +16,8 @@ excerpt:
  Obstruction to information (in any form of it) is a a very common phenomenon in many parts of the world. While some of us who are based in countries where basic freedom of speech is taken for granted, that's often not the norm for many countries. In the age of internet censorship and surveillance […]
 ---
 
+_Blogpost below was posted originally at [https://ura.design/](https://ura.design/2018/11/08/otf-summit-2018) under the title "Ura at the Open Tech Fund Summit"_
+
 Obstruction to information (in any form of it) is a a very common phenomenon in many parts of the world. While some of us who are based in countries where basic freedom of speech is taken for granted, that's often not the norm for many countries. In the age of internet censorship and surveillance we are happy to have received support from [Open Tech Fund (OTF)](https://opentech.fund) to help security and privacy-preserving projects with the mission to improve the internet freedom landscape. 
 
 As part of our involvement with the [Usability Lab at OTF](https://www.opentech.fund/labs/usability-lab/), our Operations Manager, [Mariana Balla](https://marianaballa.com) was also present at the OTF Summit in Taipei, Taiwan on 29 and 30th October. The Summit serves as a place to meet in person, identify new threats and opportunites, and generally showcase a recap of the work partners have done so far.
