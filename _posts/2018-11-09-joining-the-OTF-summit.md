@@ -16,7 +16,7 @@ excerpt:
  Obstruction to information (in any form of it) is a a very common phenomenon in many parts of the world. While some of us who are based in countries where basic freedom of speech is taken for granted, that's often not the norm for many countries. In the age of internet censorship and surveillance […]
 ---
 
-_The blogpost below describes by experience at the Open Tech Fund Summit 2018 and it was posted originally at [https://ura.design](https://ura.design/2018/11/08/otf-summit-2018) under the title "Ura at the Open Tech Fund Summit"_
+_The blogpost below describes my experience at the Open Tech Fund Summit 2018 and it was posted originally at [https://ura.design](https://ura.design/2018/11/08/otf-summit-2018) under the title "Ura at the Open Tech Fund Summit"_
 
 Obstruction to information (in any form of it) is a a very common phenomenon in many parts of the world. While some of us who are based in countries where basic freedom of speech is taken for granted, that's often not the norm for many countries. In the age of internet censorship and surveillance we are happy to have received support from [Open Tech Fund (OTF)](https://opentech.fund) to help security and privacy-preserving projects with the mission to improve the internet freedom landscape. 
 
