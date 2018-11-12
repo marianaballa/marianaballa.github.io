@@ -24,7 +24,7 @@ As part of our involvement with the [Usability Lab at OTF](https://www.opentech.
 
 Throughout the first day of the Summit, participants were split into separate working groups based on the region they are based from. As part of the Caucasus and Eastern Europe group, attendees faciliated sessions which gave an overview on the state of the said region, especially focusing on the Crimea region due to the political instability since 2014. These discussions were tremendously fruitful to understand context of these communities, something which the western industry often lacks unfortunately. During the second part of the day, attendees gathered again to present the conclusions of these discussions to the bigger group.
 
-![Taipei photo](/images/blog/post_otf_taipei.jpg)
+![Taipei photo](/assets/img/post_otf_taipei.jpg)
 
 While the first day of the Summit presented a high level overview of the state of Internet Freedom, the second day consisted of 5 minute Q&A sessions with the various OTF Labs and Fellows. In the evening, attendees met during a tradional Taiwanese dinner with local activists and representatives from the Taiwanese government. Under the leadership of their digital minister [Audrey Tang](https://en.wikipedia.org/wiki/Audrey_Tang), Taiwan has put enormous efforts to increase transparency and actually implement open source solutions in governmental offices, making the country a leading example of governance in the digital spectrum.
 
