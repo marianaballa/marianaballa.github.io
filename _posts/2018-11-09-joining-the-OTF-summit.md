@@ -16,7 +16,9 @@ excerpt:
  Obstruction to information (in any form of it) is a a very common phenomenon in many parts of the world. While some of us who are based in countries where basic freedom of speech is taken for granted, that's often not the norm for many countries. In the age of internet censorship and surveillance […]
 ---
 
-_The blogpost below describes my experience at the Open Tech Fund Summit 2018 and it was posted originally at [https://ura.design](https://ura.design/2018/11/08/otf-summit-2018) under the title "Ura at the Open Tech Fund Summit"_
+_The blogpost below describes my experience at the Open Tech Fund Summit 2018. I attended the OTF Summit as an Ura Design representative and instead of publishing a personalized report I would like to re-share the report originally posted at [https://ura.design](https://ura.design/2018/11/08/otf-summit-2018) under the title "Ura at the Open Tech Fund Summit". Enjoy..._
+
+___
 
 Obstruction to information (in any form of it) is a a very common phenomenon in many parts of the world. While some of us who are based in countries where basic freedom of speech is taken for granted, that's often not the norm for many countries. In the age of internet censorship and surveillance we are happy to have received support from [Open Tech Fund (OTF)](https://opentech.fund) to help security and privacy-preserving projects with the mission to improve the internet freedom landscape. 
 
@@ -31,3 +33,7 @@ While the first day of the Summit presented a high level overview of the state o
 The second day of the Summit was quite different from the first one. The people from OTF that lead its various Labs and Fellowships presented their scope and goals and all participants could ask for further information in small, 5 minutes sessions. During the second part of the day, there were several parallel sessions where the participants could attend and be part of the discussions regarding various topics that were related to the main focus of the OTF. For the last night of the Summit the organizers had arranged a special dinner where representatives from the Taiwanese government and other Taiwanese activists were present. So far the Taiwanese government with the influence of their digital minister Audrey Tang has put enormous efforts to be transparent and implement open source solutions on governmental offices and is an leading example of governance.
 
 The Open Tech Fund Summit was an excellent opportunity for us to connect names and faces and get closer with the work each one of us have been doing. As a design studio focused on Open Source and Internet Freedom projects, the context and background information the Summit provided was a great asset for our future work. With 2018 coming to a close, we look forward to the next chapter of supporting Internet Freedom projects in 2019. If you are interested to know more, why not [reach out](mailto:hello@ura.design) to us?
+
+___
+
+Content published under [CC BY-SA 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/).
