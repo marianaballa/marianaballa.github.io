@@ -3,7 +3,7 @@ layout: post
 title: Joining the Open Tech Fund Summit 2018
 author: Mariana Balla
 link: https://marianaballa.com
-date: 2018-11-08 08:00:00 +0200
+date: 2018-11-09
 images: 
 tags:
 - Summit
