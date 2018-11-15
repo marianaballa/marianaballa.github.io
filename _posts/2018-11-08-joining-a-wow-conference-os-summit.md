@@ -10,7 +10,7 @@ tags:
 - Conference
 - The Linux Foundation
 excerpt:
- All started in July when I was just trying to escape from studying for my 2nd semester exams and I was wondering around the web. That afternoon I stepped on a tweet from [The Linux Foundation]( https://www.linuxfoundation.org/) regarding the upcoming [Open Source Summit & Embedded Linux Conference Europe 2018]( https://events.linuxfoundation.org/events/open-source-summit-europe-2018/) in Edinburgh in late October. I went through the website and discovered a [Diversity Scholarship]( https://events.linuxfoundation.org/events/automotive-linux-summit-2018/attend/diversity-inclusion/) opportunity […]
+ All started in July when I was just trying to escape from studying for my 2nd semester exams and I was wondering around the web. That afternoon I stepped on a tweet from The Linux Foundation regarding the upcoming in Edinburgh in late October. I went through the website and discovered a opportunity […]
 ---
 
 All started in July when I was just trying to escape from studying for my 2nd semester exams and I was wondering around the web. That afternoon I stepped on a tweet from [The Linux Foundation]( https://www.linuxfoundation.org/) regarding the upcoming [Open Source Summit & Embedded Linux Conference Europe 2018]( https://events.linuxfoundation.org/events/open-source-summit-europe-2018/) in Edinburgh in late October. I went through the website and discovered a [Diversity Scholarship]( https://events.linuxfoundation.org/events/automotive-linux-summit-2018/attend/diversity-inclusion/) opportunity and I shared it with my [local FLOSS community]( https://forum.openlabs.cc/t/open-source-summit-europe-2018-edinburgh-uk/1254). 
