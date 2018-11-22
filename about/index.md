@@ -5,7 +5,7 @@ date: 2018-07-01
 comments: false
 ---
 
-![Mariana]("https://github.com/marianaballa/marianaballa.github.io/blob/master/assets/img/ddd.png")
+![Mariana](/assets/img/ddd.png)
 
 Hey there! 👋
 
