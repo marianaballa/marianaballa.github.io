@@ -5,7 +5,7 @@ date: 2018-07-01
 comments: false
 ---
 
-![Mariana](/assets/img/ddd.png)
+![Mariana](/assets/img/mari.png)
 
 Hey there! 👋
 
