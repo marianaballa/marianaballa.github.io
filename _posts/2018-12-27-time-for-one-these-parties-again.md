@@ -15,7 +15,7 @@ excerpt:
 
 On October 30th the [Fedora 29 edition was announced](https://fedoramagazine.org/announcing-fedora-29/) and this can mean only one thing… release parties all over the regions. A release party (aka RP) is a local event organized by contributors of the Fedora Project (not necessarily ambassadors) where people gather and have presentations, workshops and/or meet ups in universities, hackerspaces, cafes or wherever you think people might be interested to hear and learn more about a Linux distro.
 
-![Fedora 29 Release Party](/assets/img/F29 release party.jpg)
+![Fedora 29 Release Party](/assets/img/F29 release party.png)
 
 **F29 Release Party in Tirana** <br>
 On December 18th we had our own RP in Tirana at [Open Labs Hackerspace](https://forum.openlabs.cc/), the place where I met Fedora for the very first time myself. Let’s say our RP was a bit late in comparison to other RPs in other cities as university classes and working hours of the organizers didn’t allow us to have our event sooner. 
