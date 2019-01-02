@@ -38,5 +38,5 @@ As our agenda changed a bit on last minute, one thing remained as it was planned
 
 ![Fedora 29 Release Party](/assets/img/F29 Group.png)
 
-**Outcome**<br>
+**The aftermath**<br>
 People attending our event were mostly computer science students and their perception of Linux was that you need to be a command line genius to use a Linux distro. We are happy that we made them understand that with Fedora they can perform all their everyday tasks and learn from a large global community that is willing to share more of its experience. The Kali guy insisted that you need to be a command line genius to use Linux… 
