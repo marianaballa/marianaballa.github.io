@@ -6,8 +6,7 @@ comments: false
 ---
 
 ### You can say Hi via e-mail at:
-* mariana.balla4@gmail.com (Personal)
-* mariana@ura.design (Ura related)
+* marianaballa@pm.me (Personal)
 
 ### Or follow me on:
 * [Twitter](https://twitter.com/mariana_balla)
