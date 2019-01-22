@@ -6,7 +6,7 @@ comments: false
 ---
 
 ### You can say Hi via e-mail at:
-* marianaballa@pm.me (Personal)
+* marianaballa@pm.me 
 
 ### Or follow me on:
 * [Twitter](https://twitter.com/mariana_balla)
