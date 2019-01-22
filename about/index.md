@@ -11,7 +11,7 @@ Hey there! 👋
 
 This is Mariana Balla, but I guess you already know that since you are here...
 
-I own a Bachelor's degree on "Information & Communication Technology" granted by the [Faculty of Natural Sciences](http://www.fshn.edu.al/), University of Tirana and now I'm having my Master's based on the same subject at the same university. Alongside with my studies I work as an operations manager for [Ura Design](https://ura.design/), a design studio.
+I own a Bachelor's degree on "Information & Communication Technology" granted by the [Faculty of Natural Sciences](http://www.fshn.edu.al/), University of Tirana and now I'm having my Master's based on the same subject at the same university. 
 
 I'm passionate about free and open source technologies. For the past two years I've been a member of [Open Labs Hackerspace](https://openlabs.cc/en/) and since November 2017 I am also a member of the executive board. I'm sure you've never heard of a hackerspace's executive board that all members are girls! Have you? 😉 
 
