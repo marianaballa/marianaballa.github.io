@@ -9,5 +9,5 @@ comments: false
 * marianaballa@pm.me 
 
 ### Or follow me on:
-* [Twitter](https://twitter.com/mariana_balla)
-* [GitHub](https://github.com/marianaballa)
+* [Twitter 🐥](https://twitter.com/mariana_balla)
+* [GitHub 🐱](https://github.com/marianaballa)
