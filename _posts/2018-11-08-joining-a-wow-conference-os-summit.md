@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Attending a "wow" conference - OS Summit 2018
+title: Attending a "wow" conference - OS Summit Europe 2018
 author: Mariana Balla
 link: https://marianaballa.com
 date: 2018-11-08
