@@ -33,9 +33,7 @@ The 2nd day way was a bit more quite. Same as the first day we had to take our s
 
 I would like to thank once more everyone who helped those two days! See you next year (hopefully)! 😁
 
-![FOSDEM 2019](/assets/img/phpList- REST API.jpg)
+![FOSDEM 2019](/assets/img/phpList.jpg)
 <i>The main track at Building K</i>
 
 
-(/assets/img/phpList- REST API.jpg)
-<i>rest api</i>
