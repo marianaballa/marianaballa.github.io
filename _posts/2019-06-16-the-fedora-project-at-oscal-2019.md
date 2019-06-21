@@ -35,6 +35,9 @@ On the other hand, Amita had three different sessions. Her session on the first 
 ![Fedora](/assets/img/OSCAL_2019_Amita.jpg)
 <i>Amita presenting</i>
 
+___
+
+
 ### Fedora 30 Release Party
 
 ![Fedora](/assets/img/Twitter screenshot - OSCAL.png)
@@ -46,5 +49,8 @@ On the second day of the conference we had our **[Fedora 30](https://fedoramagaz
 <i>Cup cakes</i>
 
 OSCAL is the main reason why I joined the Fedora community from the first place, as it was the interaction with Fedorians who welcomed me at the Project. It has been 3 years since then and I am very happy to see the Fedora Project there with representatives and a Silver Sponsorship! 
+
+![OSCAL 2019](/assets/img/OSCAL group photo.jpg)
+<i>OSCAL 2019 group photo</i>
 
 All the photos from the conference are uploaded on [Wikimedia Commons](https://commons.wikimedia.org/wiki/Category:OSCAL_2019).
