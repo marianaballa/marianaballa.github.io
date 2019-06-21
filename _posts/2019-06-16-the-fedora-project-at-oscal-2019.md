@@ -38,7 +38,7 @@ On the other hand, Amita had three different sessions. Her session on the first 
 ___
 
 
-### Fedora 30 Release Party
+##### Fedora 30 Release Party
 
 ![Fedora](/assets/img/Twitter screenshot - OSCAL.png)
 <i>Twitter announcement</i>
