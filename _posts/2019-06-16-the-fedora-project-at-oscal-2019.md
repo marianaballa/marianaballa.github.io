@@ -27,7 +27,7 @@ Once again, the [Fedora Project](https://start.fedoraproject.org/) was there wit
 
 On the first day, Adam had his first session titled “Linux distributions, lifecycles, and containers”. Adam deferred to Fedora Modularity - a project bringing multiple versions of packages in Fedora with the qualities expected from a Linux distribution. He also had a second session before the closing speech on Sunday, the “slideshow karaoke”. An entertaining session where he invited on stage people to talk about random slides he had prepared in advance. 
 
-![Fedora](/assets/img/OSCAL_2019_moments_33.jpg)
+![Fedora](/assets/img/OSCAL_2019_-_presentations_33.jpg)
 <i>Adam presenting</i>
 
 On the other hand, Amita had three different sessions. Her session on the first day, “Quality is everyone's responsibility” talking about quality assurance, her field of expertise in [RedHat](https://www.redhat.com/en). The second one was “Unexpectedly Agile”, where she talked about Agile documentation and open source project management tools for Agile teams. The third session was “Fedora for everyone”. This session was included within the Release Party.
