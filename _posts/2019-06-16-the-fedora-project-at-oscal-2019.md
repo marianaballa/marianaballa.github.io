@@ -12,7 +12,7 @@ tags:
 excerpt: OSCAL (Open Source Conference Albania) is an annual conference in Albania organized to promote software freedom, open source software, free culture and open knowledge. Once again, the Fedora Project was at OSCAL with an infobooth, with presentations, a Release Party and a generous sponsorship towards the event.[…]
 ---
 
-[OSCAL (Open Source Conference Albania)](https://oscal.openlabs.cc/) is an annual conference in Albania organized to promote software freedom, open source software, free culture and open knowledge. The 2019 edition was the 6th  edition of the conference. The venue this year was OFIÇINA, a tech incubator. 
+[OSCAL (Open Source Conference Albania)](https://oscal.openlabs.cc/) is an annual conference in Albania organized to promote software freedom, open source software, free culture and open knowledge. The 2019 edition was the 6th  edition of the conference. The venue this year was [OFIÇINA](http://www.oficina.al/), a tech incubator. 
 
 Once again, the [Fedora Project](https://start.fedoraproject.org/) was there with an infobooth, with presentations, a Release Party and a generous sponsorship towards the event. On the first day in the morning, together with [Amita Sharma](https://twitter.com/AmitaSharma6) and [Adam Šamalík](https://twitter.com/adsamalik) we set up the booth with our swag near the openSUSE booth. We had Fedora <3 Python leaflets, different stickers, pens, booklets, and of course the two roll-up we’ve had the previous years and our tablecloth. As always the first day in the morning is busier as people are curious to learn what the project is about.  
 
