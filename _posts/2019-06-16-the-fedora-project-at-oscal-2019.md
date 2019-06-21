@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Fedora Project at OSCAL 2019
+title:The Fedora Project at OSCAL 2019
 author: Mariana Balla
 link: https://marianaballa.com
 date: 2019-06-16
