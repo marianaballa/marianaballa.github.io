@@ -1,15 +1,15 @@
 ---
 layout: post
-title: The Fedora Project at OSCAL 2019
+title: Fedora Women's Day 2019 - Tirana
 author: Mariana Balla
 link: https://marianaballa.com
-date: 2019-06-16
+date: 2019-10-14
 images: 
 tags:
 - Fedora
-- OSCAL
+- Open Labs Hackerspace
 
-excerpt: OSCAL (Open Source Conference Albania) is an annual conference in Albania organized to promote software freedom, open source software, free culture and open knowledge. Once again, the Fedora Project was at OSCAL with an infobooth, with presentations, a Release Party and a generous sponsorship towards the event.[…]
+excerpt: Fedora Women’s Day (FWD) is a day to celebrate and bring visibility to female contributors in open source projects, including Fedora. This event is headed by Fedora’s Diversity and Inclusion Team.[…]
 ---
 
 ![Release Party](/assets/img/OSCAL2019_Fedora_release_party.jpg)
