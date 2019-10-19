@@ -58,7 +58,7 @@ ___
 
 
 ![pizza](/assets/img/fwd2019-pizza1.jpg)
-<i>Pizza time</i>
+<i>Pizza time! 🍕</i>
 
 #### The aftermath
 While we were presenting [whatcanidoforfedora.org]( https://whatcanidoforfedora.org/) we stopped on the [“QA and Testing”]( https://whatcanidoforfedora.org/en#qa-and-testing) tab and explained further what QA is and the importance of testing before the final release. During at that time [Fedora 31 Beta]( https://fedoramagazine.org/announcing-the-release-of-fedora-31-beta/) was out so it was the perfect timing to talk about QA. Most of the girls attending were either high school students or were about to start university in CS. We agreed to gather on more time before the end of October and have a QA session lead by Nafie (she works as a QA engineer) and learn how to conduct testing and how to hunt bugs. 
