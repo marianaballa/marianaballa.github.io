@@ -11,4 +11,4 @@ tags:
 excerpt: Open Source Summit is a 3-day conference dedicated to the leading Open Source technologies, brought by The Linux Foundation. On August 2019 I joined Open Source Summit NA in San Diego, California and had three days full of … open source. 
 ---
 
-Open Source Summit is a 3-day conference dedicated to the leading Open Source technologies, brought by [The Linux Foundation](https://www.linuxfoundation.org). On August 2019 I joined Open Source Summit NA in San Diego, California and had three days full of … open source. 
+Open Source Summit is a 3-day conference dedicated to the leading Open Source technologies, brought by [The Linux Foundation](https://www.linuxfoundation.org). On August 2019 I joined Open Source Summit NA in San Diego, California and had three days full of open source. 
