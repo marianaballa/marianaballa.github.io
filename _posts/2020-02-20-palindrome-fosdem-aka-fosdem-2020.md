@@ -6,8 +6,7 @@ link: https://marianaballa.com
 date: 2020-02-20
 images: 
 tags:
-- Fedora
-- FOSDEM
+
 
 excerpt:
 The 20th edition of Free & Open Source Developers European Meetup (FOSDEM) was a palindrome because of the date that the conference occurred this yeas … 02/02/2020. Although the conference is huge and hectic, the 20th edition had significantly less people attending. The coronavirus breakout had a huge impact on that.[…]
