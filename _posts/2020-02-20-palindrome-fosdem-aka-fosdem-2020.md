@@ -10,7 +10,9 @@ tags:
 - FOSDEM
 
 excerpt:
+
 The 20th edition of Free & Open Source Developers European Meetup (FOSDEM) was a palindrome because of the date that the conference occurred this yeas … 02/02/2020. Although the conference is huge and hectic, the 20th edition had significantly less people attending. The coronavirus breakout had a huge impact on that.[…]
+
 ---
 
 The 20th edition of [Free & Open Source Developers European Meetup (FOSDEM)](https://fosdem.org/2020/) was a [palindrome](https://en.wikipedia.org/wiki/Palindrome) because of the date that the conference occurred this yeas … 02/02/2020. Although the conference is huge and hectic, the 20th edition had significantly less people attending. The [coronavirus](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak) breakout had a huge impact on that. Once again I joined the conference as part of the Fedora Project. This year the organizers grouped the booths thematically and at ‘building K’ where we usually stand were mostly OS and DE stands.
