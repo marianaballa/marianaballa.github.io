@@ -1,18 +1,3 @@
----
-layout: post
-title: Palindrome FOSDEM aka “FOSDEM 2020”
-author: Mariana Balla
-link: https://marianaballa.com
-date: 2020-02-20
-images: 
-tags:
-- Fedora
-- FOSDEM
-
-excerpt:
-The 20th edition of Free & Open Source Developers European Meetup (FOSDEM) was a palindrome because of the date that the conference occurred this yeas … 02/02/2020. Although the conference is huge and hectic, the 20th edition had significantly less people attending. The coronavirus breakout had a huge impact on that.[…]
----
-
 The 20th edition of [Free & Open Source Developers European Meetup (FOSDEM)](https://fosdem.org/2020/) was a [palindrome](https://en.wikipedia.org/wiki/Palindrome) because of the date that the conference occurred this yeas … 02/02/2020. Although the conference is huge and hectic, the 20th edition had significantly less people attending. The [coronavirus](https://en.wikipedia.org/wiki/2019%E2%80%9320_coronavirus_outbreak) breakout had a huge impact on that. Once again I joined the conference as part of the Fedora Project. This year the organizers grouped the booths thematically and at ‘building K’ where we usually stand were mostly OS and DE stands.
 
 On Saturday morning upon arrival we set up our booth with our swag. Stickers, pins, pens, booklets and of course the reusable coffee cups. Once again, we had a “shared” design with CentOS on the cups. I have to admit the “Fedora <3 Python” stickers were a huge success! Although, my favorite ones were those on the sticker sheet by the Diversity & Inclusion team.
