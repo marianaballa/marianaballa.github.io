@@ -1,6 +1,6 @@
 ---
 layout: post
-title:Palindrome FOSDEM aka “FOSDEM 2020”
+title: Palindrome FOSDEM aka “FOSDEM 2020”
 author: Mariana Balla
 link: https://marianaballa.com
 date: 2020-02-20
