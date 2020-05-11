@@ -9,6 +9,6 @@ comments: false
 * marianaballa@pm.me 
 * mariana@openlabs.cc
 
-### Or follow me on:
+### Or/And follow me on:
 * [Twitter 🐥](https://twitter.com/mariana_balla)
 * [GitHub 🐱](https://github.com/marianaballa)
