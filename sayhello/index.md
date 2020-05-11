@@ -7,6 +7,7 @@ comments: false
 
 ### You can say "Hi" 👋 via e-mail at:
 * marianaballa@pm.me 
+* mariana@openlabs.cc
 
 ### Or follow me on:
 * [Twitter 🐥](https://twitter.com/mariana_balla)
