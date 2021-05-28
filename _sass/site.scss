@@ -44,11 +44,15 @@ body {
     padding-top: 0;
 	@media #{$small} {
 		display: block !important;
-        padding-top: 40%;
 	}
 	@media only screen and (max-height: 500px) {
 	    display: block !important;
 	}
+}
+.homepage {
+    @media #{$small} {
+        padding-top: 40%;
+    }
 }
 .flex {
 	display: -webkit-box;
