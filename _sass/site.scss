@@ -22,6 +22,7 @@ body {
 	@media #{$small} {
 	    background-image: none !important;
 		background: $white;
+        background-color: $bodycolor;
 	}
 }
 * {
@@ -40,8 +41,10 @@ body {
 	min-height: 300px;
 	text-align: left;
 	color: $white;
+    padding-top: 0;
 	@media #{$small} {
 		display: block !important;
+        padding-top: 40%;
 	}
 	@media only screen and (max-height: 500px) {
 	    display: block !important;
@@ -82,8 +85,10 @@ body {
 	box-shadow: 0 0 10px 0 rgba($color_shark,0.3);
 	@include transition(.5s);
 	@media #{$small} {
-		width: 100%;
+		width: 90%;
 	    box-shadow: none;
+        padding-right: 0;
+        padding-left: 0;
 	}
 	@media #{$medium} {
 		width: 80%;
@@ -95,6 +100,9 @@ body {
 	.title {
 	    margin-top: 0;
 	    margin-bottom: 5px;
+        @media #{$small} {
+            padding-bottom: 20px;
+        }
 	}
 	@media #{$small} {
 		padding: 0 1em;
