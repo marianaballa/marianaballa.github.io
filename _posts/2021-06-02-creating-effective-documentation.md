@@ -15,9 +15,9 @@ excerpt:
  Documentation is like cleaning your place: nobody enjoys creating it but once it's there everybody loves showing it off to the world! Not to mention that they both make your life easier[…]
 ---
 
-### The power of documentation
-
 Documentation is like cleaning your place: nobody enjoys creating it but once it's there everybody loves showing it off to the world! Not to mention that they both make your life easier.... But let's start from the beginning. Documentation can be anything that is created for the purpose of teaching or training a person or group of people how to perform a certain procedure. Furniture manuals, food recipes, tutorial YouTube videos, etc are just a few examples of documentation. Documentation can be studied from several perspectives: creating documentation, going through it and maintaining/ updating it.
+
+![Banner](/assets/img/Creating effective Documentation.png)
 
 ### Creating documentation
 
