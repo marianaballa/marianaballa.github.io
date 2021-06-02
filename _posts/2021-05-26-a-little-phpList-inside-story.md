@@ -10,6 +10,8 @@ tags:
 - Communication
 - Open Source
 - Community
+- Blogging
+
 
 excerpt:
  While still a student, back in March 2019 I joined phpList Ltd. in the role of the Community Manager for the phpList community. I was so happy to[…]
