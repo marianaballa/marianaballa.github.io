@@ -15,7 +15,7 @@ excerpt:
  Documentation is like cleaning your place: nobody enjoys creating it but once it's there everybody loves showing it off to the world! Not to mention that they both make your life easier[…]
 ---
 
-Documentation is like cleaning your place: nobody enjoys creating it but once it's there everybody loves showing it off to the world! Not to mention that they both make your life easier.... But let's start from the beginning. Documentation can be anything that is created for the purpose of teaching or training a person or group of people how to perform a certain procedure. Furniture manuals, food recipes, tutorial YouTube videos, etc are just a few examples of documentation. Documentation can be studied from several perspectives: creating documentation, going through it and maintaining/ updating it.
+Documentation is like cleaning your place: nobody enjoys creating it but once it's there everybody loves showing it off to the world! Not to mention that they both make your life easier.... Documentation can be anything that is created for the purpose of teaching or training a person or group of people how to perform a certain procedure. Furniture manuals, food recipes, tutorial YouTube videos, etc are just a few examples of documentation. Documentation can be studied from several perspectives: creating documentation, going through it and maintaining/ updating it.
 
 ![Banner](/assets/img/Creating effective Documentation.png)
 
@@ -44,17 +44,3 @@ A "great documentation" besides that is easy to write should also be easy to mai
 Those who know me personally, know that I am not the most patient person on Earth, but I am always willing to try and figure out myself how to solve a problem before going to somebody that most probably will have a solution. In the beginning of 2021 I bought myself a new laptop and because it came with Windows 10 pre-installed I wanted to install and run Fedora on it. Soon I realized that this is not going to be easy because many BIOS configurations were either locked or disabled. Long story short, I spent an entire working day wandering around forums and docs pages trying to find a solution. I was avoiding YouTube videos on purpose because ... I don't have the patience to watch them! Anyways, I solved my problem the next morning by watching a 2 minutes video during my first 10 minutes at the office.
 
 And because I have spent many hours of my life trying to understand documentation, I came up with the thoughts above.
-
-### A little phpList inside story
-
-While still a student, back in March 2019 I joined phpList Ltd. in the role of the Community Manager for the phpList community. I was so happy to join a group of people that had managed to develop and create such a great reputation for one of “oldest” open source projects out there. Although I had a 3-year background into the "Open Source Culture" world, day by day I was learning so much: new development terms, new system administration terms, new marketing & communications terms, etc. But the most important thing that I learned was what a “healthy work environment” looks like. In a small team like phpList oftentimes you complete tasks that are not on your contract at the “job description” section, but somehow it makes sense to try something new.
-
-Over these 2,5 years I have tried and experimented with several technologies and tools in order to make the team’s life easier and sometimes these efforts have failed. Knowing that I have a manger that trusts me enough by allowing me to use company time to try things that are not guaranteed to have a direct monetary impact over time, boosted my confidence a lot and reduced work stress. I know, it’s called “research” and it is a normal operation in every company, but you don’t see people my age doing it.
-
-A few days ago my manger Michiel (and creator of phpList) shared with me a blogpost he had created around a programming topic and while I was browsing his blog I end up at the About page. There I read this:
-
-My manger works full-time for another company and managing to find a workflow that suits everyone is one of the things that I am so proud that everyone who has ever been involved with phpList managed to establish. Not being physically at the same office, but instead being based across different timezones can be quite frustrating, especially for quick questions require confirmation from a team member. But, at phpList we have managed to overcome this. This contributes to creating a healthier work environment I mentioned above. By “this” I mean listening and tolerating the team/ company members’ needs and ambitions.
-
-Over the course of 2,5 years I had the chance to meet and work with some very smart and talented people and what phpList is today is a result of their hard work.
-
-PS: no, I am not leaving the company and this is not a farewell blogpost. I simply wanted to share that communicating effectively with your co-workers/ team members can lift a lot of pressure off their shoulders and make things work for the best for everyone.
