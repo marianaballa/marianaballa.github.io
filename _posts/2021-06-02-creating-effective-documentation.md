@@ -4,16 +4,13 @@ title: Creating effective documentation
 author: Mariana Balla
 link: https://marianaballa.com
 date: 2021-06-02
-images: 
+excerpt: "Documentation is like cleaning your place: nobody enjoys creating it but once it's there everybody loves showing it off to the world! Not to mention that they both make your life easier[...]"
+images:
 tags:
 - Documentation
 - Communication
 - Community
 - Blogging
-
-
-excerpt:
-Documentation is like cleaning your place: nobody enjoys creating it but once it's there everybody loves showing it off to the world! Not to mention that they both make your life easier[…]
 
 ---
 
