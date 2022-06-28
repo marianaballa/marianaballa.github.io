@@ -22,8 +22,9 @@ Back in March 2020, only 2 months away from the 7th edition of OSCAL, everything
 group photo
 
 The conference lasts two consecutive days, it has: 
-* two parallel presentation tracks,  * one workshop track,  
-* a designated area for infobooths by various open source projects.
+* two parallel presentation tracks
+* one workshop track  
+* a designated area for infobooths by various open source projects
 
 panel
 
