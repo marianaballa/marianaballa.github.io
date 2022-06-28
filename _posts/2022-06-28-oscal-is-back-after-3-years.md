@@ -30,12 +30,12 @@ panel
 ### Infobooths
 The conference had 7 infobooths this year:
 
-- LibreOffice, 
-- Zextras, 
-- openSUSE, 
-- Fedora, 
-- phpList, 
-- SCiDEV, 
+- LibreOffice 
+- Zextras 
+- openSUSE 
+- Fedora 
+- phpList 
+- SCiDEV 
 - Open Labs
 
 ### openSUSE Summit 
@@ -43,3 +43,13 @@ Alongside OSCAL, we had the openSUSE Summit. openSUSE folks travelled to Tirana 
 
 ### My presentation on "Open Source for Business" 
 I had a presentation about the importance of meeting digital needs, regardless of industry, for every business. Of course, I approached my presentation from an open source perspective and showcased some easy-to-use solutions that can apply to most Small and Mid-size Enterprises (SMEs). 
+
+### Sponsors & supporters
+OSCAL is organized on a volunteer basis by the members of Open Labs Hackerspace and very good friends of the hackerspace! The conference would be possible without our amazing volunteers, sponsors and supporters! OSCAL 2022 was sponsored and supported by: 
+* openSUSE
+* ZexTras & EUforInnovation
+* The Fedora Project & LibreOffice
+* homezone.al & EngageTechnology
+* Stickermule
+* Tirana Youth Capital 2022 & phpList
+* A2CNN
