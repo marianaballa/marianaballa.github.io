@@ -37,8 +37,8 @@ The conference had 7 infobooths this year:
 - openSUSE 
 - Fedora 
 - phpList 
-- SCiDEV 
-- Open Labs
+- Network of Albanian Women in STEM (NAW STEM) 
+- Open Labs Hackerspace
 
 ### openSUSE Summit 
 Alongside OSCAL, we had the openSUSE Summit. openSUSE folks travelled to Tirana and held presentations. Douglas DeMaio hosted the keynote presentation of OSCAL2022. 
