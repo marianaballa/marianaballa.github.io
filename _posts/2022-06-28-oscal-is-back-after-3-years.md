@@ -19,7 +19,8 @@ excerpt:
 
 Back in March 2020, only 2 months away from the 7th edition of OSCAL, everything was cancelled indefinitely. 3 years later and the 2-day open source conference happened again in Tirana.  Normally, I am very happy to be among all these amazing open source people but this year it was even better since we hadn't met in person in such a long time. 
 
-group photo
+![Fedora booth](/assets/img/Group_photo_OSCAL_2022.jpg)
+<i>OSCAL 2022 group photo</i>
 
 The conference lasts two consecutive days, it has: 
 * two parallel presentation tracks
