@@ -19,7 +19,7 @@ excerpt:
 
 And after two years, in-person conferences started happening again! At first, [OSCAL](https://oscal.openlabs.cc/), then [DebConf](https://debconf22.debconf.org/) and the last one (so far), the [Open Source Summit Europe](https://events.linuxfoundation.org/open-source-summit-europe/)! 
 
-![venue](/assets/img/OSS Dublin.jpg)
+![venue](/assets/img/OSS_Dublin.jpg)
 <i>Entrance</i>
 
 After three years, I got to join one more time the Open Source Summit organized by [The Linux Foundation](https://www.linuxfoundation.org/). It is amazing how people from all over the world get to gather for four days and talk and discuss so many different topics. Dublin is one of the world's most significant tech hubs and was an excellent choice for the OSS. 
@@ -29,12 +29,12 @@ During his keynote speech, Jim Zemlin, the LF Executive Director, mentioned that
 ## The sponsors' showcase
 During the three days of the sponsors' showcase, I tried to visit all the infobooths (I think I might have missed 2-3) and hear everybody's story. The word that I kept hearing from most people was "security". I am happy to see that we are not only creating innovative solutions but also making sure to do it in a secure and future-proof way. #SecurityFTW
 
-![sponsors](/assets/img/OSS sponsors.jpg)
+![sponsors](/assets/img/OSS_sponsors.jpg)
 
 ## Linus was there!
 One of the greatest moments of the OSS is when Linus Torvalds shows up at the conference. During the second day of keynotes, the third floor of the Convention Centre was filled with Linux enthusiasts that attended his appearance on stage. 
 
-![Linus](/assets/img/OSS Linus Torvalds.jpg)
+![Linus](/assets/img/OSS_Linus_Torvalds.jpg)
 <i>Linus Torvalds on stage</i>
 
 ## Not only tech
@@ -42,7 +42,7 @@ Technology is great, but often we forget that it is humans who create technology
 
 ---
 
-![bridge](/assets/img/OSS bridge.jpg)
+![bridge](/assets/img/OSS_bridge.jpg)
 <i>The Samuel Beckett Bridge in Dublin, IE</i>
 
 
