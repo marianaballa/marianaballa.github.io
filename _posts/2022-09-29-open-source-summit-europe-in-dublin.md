@@ -42,7 +42,7 @@ Technology is great, but often we forget that it is humans who create technology
 
 ---
 
-![bridge](/assets/img/OSS bridge .jpg)
+![bridge](/assets/img/OSS bridge.jpg)
 <i>The Samuel Beckett Bridge in Dublin, IE</i>
 
 
