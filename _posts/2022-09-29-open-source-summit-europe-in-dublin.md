@@ -1,6 +1,6 @@
 ---
 layout: post
-title: After three years at the Open Source Summit
+title: Open Source Summit Europe in Dublin
 author: Mariana Balla
 link: https://marianaballa.com
 date: 2022-09-29
