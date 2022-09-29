@@ -41,6 +41,7 @@ One of the greatest moments of the OSS is when Linus Torvalds shows up at the co
 Technology is great, but often we forget that it is humans who create technology! The OSS allows traditionally underrepresented social groups to come together for lunch, get to know one another and share their experiences. The "Better together diversity lunch" and the "Women & non-binary in Open Source " are two examples of this. 
 
 ======
+
 ![bridge](/assets/img/OSS bridge .jpg)
 <i>The Samuel Beckett Bridge in Dublin, IE</i>
 
