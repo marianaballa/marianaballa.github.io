@@ -7,27 +7,30 @@ comments: false
 
 Hey there! 👋
 
-This is Mariana Balla, but I guess you already know that since you are here...
+This is Mariana Balla, but I guess you already know that since you are here…
 
-I own a Bachelor's & a Master's degree on "Information & Communication Technology", both granted by the [Faculty of Natural Sciences](http://www.fshn.edu.al/), University of Tirana. 
+I am a [Certified Scrum Product Owner (CSPO)](https://bcert.me/srqpqrvos) who enjoys product planning, implementation, and successful releases. My approach involves close collaboration with the stakeholders, a commitment to Scrum principles, and the application of my knowledge acquired during my [Information & Communication Technology (ICT)](https://fshn.edu.al/Departments/departamenti-i-informatikes/Programmes/teknologji-informacioni-bsc) university degree.
 
-I am a Product Manager that enjoys planning and building software while collaborating with international, distributed teams.
+Throughout my professional endeavors, I've leveraged a variety of tools for effective product management and user community outreach. Some of my favorite and most familiar tools are:
+- Email: for seamless communication and reporting.
+- Jira: as a robust platform for issue and project tracking.
+- Slack & Mattermost: for instant communication within teams.
+- Zoom: for facilitating efficient video conferencing.
+- Loom: for detailed screen recording.
+- Figma & Miro: for visualized planning and collaborative efforts.
+- Linux-based operating systems: serving as my primary OS.
+- Git (version control system): for meticulous file change tracking.
+- GitHub & GitLab: as reliable platforms for collaborative version control.
+- phpList: for efficient bulk email sending.
 
-While heavily involved with online and offline Open Source communities, I have experience with tracking product planning, implementation, and launch. I am a fan of open source technologies and I try to work with open source solutions for day-to-day tasks. Some of my favorite and most used tools for Product Management and Community Outreach are:
+Having utilized these tools, I've effectively managed products, overseen projects, and engaged in user community outreach. If your company uses similar tools or is looking to explore new solutions, I would be happy to put effort into getting myself familiar with new tools.
 
-- Email for communication & reporting
-- Linux-based operating systems as my main OS
-- Git (Version Control System) for file changes tracking
-- GitHub & GitLab for code storing and issue tracking
-- Mattermost (Slack alternative) for team communication & collaboration
-- phpList for bulk email sending
-- Discourse (the software) for community outreach
+- Here's how I can contribute to your projects:
+- Create a comprehensive development roadmap for your product.
+- Track development progress and provide insightful reports.
+- Conduct User Acceptance Testing (UAT) to identify and address minor bugs and malfunctions before the final launch.
+- Craft detailed changelog announcements for every release, outlining the list of changes.
 
-I have used the above-mentioned tools and solutions to manage products & projects and user communities outreach. If your company uses similar tools or is looking to explore new solutions, I would be happy to put some effort into getting myself familiar with new tools.
+Feel free to reach out if you have any questions or if there's a specific way I can assist you in your endeavors. Looking forward to connecting and collaborating!
 
-How can I help you:
-
-- Create a development roadmap for your project/ product
-- Track development & report results
-- Manually test your product for minor bugs and malfunctions prior to final launch
-- Organize an (online) event to introduce your project/ product to your customers/ partners/ wider audience
+Let's connect on [LinkedIn](www.linkedin.com/in/marianaballa)!
