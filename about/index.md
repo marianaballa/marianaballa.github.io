@@ -1,9 +1,9 @@
 ---
 layout: page
+excerpt_separator: <!--more-->
 title: About me
 date: 2018-07-01
 comments: false
-
 ---
 
 Hey there! 👋
